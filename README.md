@@ -1,0 +1,1 @@
+# Python exercises using SQLite, Virtual Venv and GitHub.
